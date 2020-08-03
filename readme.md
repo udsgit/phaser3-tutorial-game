@@ -24,16 +24,13 @@ It is simply the tutorial followed to create the first game with the framework "
 
 ## **Demo**
 
-You can try it using the [Demo](https://udsgit.github.io/chest-collector)
+You can try it using the [Demo](https://udsgit.github.io/phaser3-tutorial-game/)
 
-> <img src="assets/images/readme/demo.gif" width="300"/><br>
-> <i>Demo</i>
+> <img src="public/assets/readme/demo.gif" width="300"/><br> > <i>Demo</i>
 
 ## **Screenshots**
 
-> <img src="assets/images/readme/title.jpg" width="300"/>
-> <img src="assets/images/readme/game.jpg" width="300"/><br>
-> <i>title screen and game screen</i>
+> <img src="public/assets/readme/game.jpg" width="300"/><br> > <i>title screen and game screen</i>
 
 ## **Technologies**
 
@@ -66,15 +63,15 @@ npm install
 
 ## **Usage**
 
-1. Open the link from the [Demo](https://udsgit.github.io/chest-collector) or open the file **index.html** if you downloaded it.
+1. Open the link from the [Demo](https://udsgit.github.io/phaser3-tutorial-game/) or open the file **index.html** after build it.
 2. Now you can interact with the "Game".
-3. To move, you will use the arrows on the keyboard and you can take the chests that will appear. The game only consists of that, since it is a first contact.
+3. To move, you will use the arrows on the keyboard and you can take the stars that will appear. be care avoiding the bombs.
 
 ## **Status**
 
 Project is: **_Completed._**
 
-Since it has served to know the first contact, but it will continue to be improved through new commits or new repositories making other games.
+Since it has served to know the first contact following the tutorial, but it will continue to be improved through new repositories making other games.
 
 ## **Contact**
 
