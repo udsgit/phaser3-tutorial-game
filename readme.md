@@ -17,7 +17,7 @@ Just a tutorial game from the Game Framework "Phaser 3" 🕹️👾
 
 ## **General info**
 
-**Date**: July, 2019  
+**Date**: July, 2020  
 **Duration**: 2 Days.
 
 It is simply the tutorial followed to create the first game with the framework "Phaser 3" 🕹️👾 using TypeScript.
@@ -40,17 +40,17 @@ You can try it using the [Demo](https://udsgit.github.io/phaser3-tutorial-game/)
 
 ## **Setup**
 
-Since this project has been a tutorial I will not write a new "Setup", but you can follow the following tutorials to do the same project
+Since this project has been a tutorial I will not write a new "Setup", but you can follow the following tutorials to do the same project.
 
 You can read the followed [**Official tutorial**](https://phaser.io/tutorials/making-your-first-phaser-3-game/part1), but is in JS
-or watch the followed video [**@supertommy tutorial in TS**](https://www.youtube.com/watch?v=QXxmSbfR2aY&t)
+or watch the followed video [**@supertommy tutorial in TS**](https://www.youtube.com/watch?v=QXxmSbfR2aY&t).
 
-If you still want to use my project
+If you still want to use my project just follow the next steps.
 
 1. Clone/Download the repository.
 
 ```console
-git clone https://github.com/udsgit/chest-collector.git
+git clone https://github.com/udsgit/phaser3-tutorial-game.git
 ```
 
 2. You may have to install the packages with **NPM**.
@@ -59,7 +59,7 @@ git clone https://github.com/udsgit/chest-collector.git
 npm install
 ```
 
-3. Enjoy, any questions, follow the previous tutorials.
+3. Enjoy, if any questions just follow the previous tutorials.
 
 ## **Usage**
 
