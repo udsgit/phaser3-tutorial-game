@@ -30,7 +30,7 @@ You can try it using the [Demo](https://udsgit.github.io/phaser3-tutorial-game/)
 
 ## **Screenshots**
 
-> <img src="public/assets/readme/game.jpg" width="300"/><br> > <i>title screen and game screen</i>
+> <img src="public/assets/readme/game.png" width="300"/><br> > <i>title screen and game screen</i>
 
 ## **Technologies**
 
@@ -42,8 +42,8 @@ You can try it using the [Demo](https://udsgit.github.io/phaser3-tutorial-game/)
 
 Since this project has been a tutorial I will not write a new "Setup", but you can follow the following tutorials to do the same project
 
-You can read the followed [official tutorial](https://phaser.io/tutorials/making-your-first-phaser-3-game/part1), but is in JS
-or watch the followed video[tutorial in TS by @supertommy](https://www.youtube.com/watch?v=QXxmSbfR2aY&t)
+You can read the followed [**Official tutorial**](https://phaser.io/tutorials/making-your-first-phaser-3-game/part1), but is in JS
+or watch the followed video [**@supertommy tutorial in TS**](https://www.youtube.com/watch?v=QXxmSbfR2aY&t)
 
 If you still want to use my project
 
