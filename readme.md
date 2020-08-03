@@ -26,11 +26,11 @@ It is simply the tutorial followed to create the first game with the framework "
 
 You can try it using the [Demo](https://udsgit.github.io/phaser3-tutorial-game/)
 
-> <img src="public/assets/readme/demo.gif" width="300"/><br> > <i>Demo</i>
+> <img src="public/assets/readme/demo.gif" width="300"/><br><i>Demo</i>
 
 ## **Screenshots**
 
-> <img src="public/assets/readme/game.png" width="300"/><br> > <i>title screen and game screen</i>
+> <img src="public/assets/readme/game.png" width="300"/><br><i>Game screen</i>
 
 ## **Technologies**
 
